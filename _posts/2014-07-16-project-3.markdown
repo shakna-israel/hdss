@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-18
+img: kristy.jpg
+alt: Kristy Gravestocks
+project-date: 2014
+client: Lead Designer
+category: Staff
+title: Kristy Gravestocks
+description: Kristy is in her final year of her Bachelor of IT degree at the Federation University. Her focus in her studies was mainly mainframes but she enjoys the designing phase of applications most. Kristy has been offered a position next year by Telstra on completion of her studies this year.
+---

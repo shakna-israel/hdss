@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-18
+img: lewis.jpg
+alt: Lewis Lakerink
+project-date: 2014
+client: Lead Developer
+category: Staff
+title: Lewis Lakerink
+description: Lewis is in his final year of his Bachelor of IT (Gaming) degree at the Federation University. He is very passionate and talented in programming and his decision in doing the Gaming programme, is because it is the most programming intensive course. He works part-time managing servers and programming and describes himself as "living in the Matrix".
+---

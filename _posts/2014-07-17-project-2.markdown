@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-18
+img: joey.jpg
+alt: Joey Erasmus
+project-date: 2014
+client: Client Liaison
+category: Staff
+title: Joey Erasmus
+description: Joey is a 3rd year Professional Practice (IT) student at the Federation University. She works part-time at IBM as part of her IBM scholarship. She enjoys the technical aspect of IT as well as liaising with clients.
+---

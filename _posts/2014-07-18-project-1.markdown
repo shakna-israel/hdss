@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: jess.jpg
+alt: Jesmigael Cantos
+project-date: 2014
+client: Lead Software Architect
+category: Staff
+title: Jesmigael Cantos
+description: Jess is a 3rd year Professional Practice (IT) student at Federation University. He works part time at IBM as part of his IBM scholarship. His passion is programming and the technical aspects of IT.
+---

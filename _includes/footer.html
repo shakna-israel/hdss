@@ -1,0 +1,66 @@
+    <!-- Footer -->
+    <footer class="text-center">
+        <div class="footer-above">
+            <div class="container">
+                <div class="row">
+                    <div class="footer-col col-md-4">
+                        <h3>Location</h3>
+                        <p>Federation University<br>Mt Helen, Ballarat</p>
+                    </div>
+                    <div class="footer-col col-md-4">
+                        <h3>Around the Web</h3>
+                        <ul class="list-inline">
+                          {% if site.facebook %}
+                            <li>
+                                <a href="http://facebook.com/{{ site.facebook }}" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                            </li>
+                            {% endif %}
+                            {% if site.google %}
+                            <li>
+                                <a href="http://plus.google.com/{{ site.google }}" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
+                            </li>
+                            {% endif %}
+                            {% if site.twitter %}
+                            <li>
+                                <a href="http://twitter.com/{{ site.twitter }}" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+                            </li>
+                            {% endif %}
+                            {% if site.linkedin %}
+                            <li>
+                                <a href="http://linkedin.com/profile/view?id={{ site.linkedin }}" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
+                            </li>
+                            {% endif %}
+                            {% if site.dribble %}
+                            <li>
+                                <a href="http://dribble.com/{{ site.dribble }}" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a>
+                            </li>
+                            {% endif %}
+                            <li>
+                                <a href="{{ site.basurl }}/feed.xml" class="btn-social btn-outline"><i class="fa fa-fw fa-rss"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="footer-col col-md-4">
+                        <h3>Happy Developers Software Solution</h3>
+                        <p>A happy solution to all your IT problems</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-below">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <a href="http://jmilne.com.au">Website Design James Milne, 2014</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+    <div class="scroll-top page-scroll visible-xs visble-sm">
+        <a class="btn btn-primary" href="#page-top">
+            <i class="fa fa-chevron-up"></i>
+        </a>
+    </div>

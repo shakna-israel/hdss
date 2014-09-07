@@ -1,0 +1,33 @@
+# Site settings
+title: Happy Developers Sotware Solution
+email: james.m@auswideweb.com.au
+description: ""
+twitter_username: jimilne
+github_username:  shakna-israel
+web_description:
+designer:
+#baseurl: "/freelancer-theme"
+
+#Social Media -->
+#Leave blank to hide
+
+#facebook name
+facebook:
+
+#Google ID number
+google:
+
+#Twitter Username
+twitter:
+
+#LinkedIn ID
+linkedin:
+
+#Dribble Name
+dribble:
+
+#<-- End Social Media
+
+# Build settings
+markdown: kramdown
+permalink: pretty
